@@ -1,0 +1,34 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+
+int main(){
+	int n=500000;
+	int a[n];
+	
+	//int u=50,l=5;
+	time_t start,end;
+	
+	
+	int i;
+	for(i=0;i<n;i++){
+		a[i]=rand() %1000000;
+		printf("%d\t",a[i]);
+	}
+	
+	int e;
+	printf("\n\nEnter element : ");
+	scanf("%d",&e);
+	
+	start=time(NULL);
+	for(i=0;i<n;i++)
+	if(a[i]==e)
+	break;
+	end=time(NULL);
+	
+	printf(i==n?"\n\nelement not found":"\n\nelement found at position %d",i);
+	
+	
+	printf("\n\nTime taken for linear search= %d",(end-start));
+	return 0;
+}
