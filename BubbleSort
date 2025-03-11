@@ -1,0 +1,31 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+
+int main(){
+	time_t start,end;
+	
+	int n=5000;
+	int a[n];
+	int j,i;
+	for(i=0;i<n;i++){
+		a[i]=rand() %10000;
+		printf("%d\t",a[i]);
+	}
+	
+	start=time(NULL);
+	for(i=0;i<n;i++)
+	for(j=0;j<n-i-1;j++)
+	if(a[j]>a[j+1]){
+		int t=a[j];
+		a[j]=a[j+1];
+		a[j+1]=t;
+	}
+	end=time(NULL);
+	
+	printf("\n\nBubble Sort\n");
+	for(i=0;i<n;i++)
+	printf("%d\t",a[i]);
+	printf("\n\nTime taken for bubble sort : %d",(end-start));
+	return 0;
+}
