@@ -18,3 +18,4 @@ Quick sort
 ![image](https://github.com/user-attachments/assets/64856d14-aefc-4d17-b1e4-dae27f33f9c4)
 
 Merge sort
+![image](https://github.com/user-attachments/assets/b34ec59d-50f3-4601-bd2c-2e6ee3c5250e)
