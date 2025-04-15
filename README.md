@@ -19,3 +19,9 @@ Quick sort
 
 Merge sort
 ![image](https://github.com/user-attachments/assets/b34ec59d-50f3-4601-bd2c-2e6ee3c5250e)
+
+
+LAB - 5
+
+Insertion sort
+![image](https://github.com/user-attachments/assets/a27f45f1-e180-4c1e-a57b-5e9cfaf2bc36)
