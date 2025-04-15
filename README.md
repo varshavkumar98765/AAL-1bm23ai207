@@ -28,6 +28,9 @@ Kruskal's
 Prim's
 ![image](https://github.com/user-attachments/assets/e28ec39a-2939-470e-b590-e1cf7173c23d)
 
+Dijkstra
+![image](https://github.com/user-attachments/assets/561a8d77-11e6-4a16-bdd5-555a11e37e9b)
+
 
 LAB - 5
 
