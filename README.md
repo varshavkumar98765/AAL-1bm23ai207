@@ -20,6 +20,11 @@ Quick sort
 Merge sort
 ![image](https://github.com/user-attachments/assets/b34ec59d-50f3-4601-bd2c-2e6ee3c5250e)
 
+LAB - 4
+
+Kruskal's
+![image](https://github.com/user-attachments/assets/b8f6945c-563e-45c3-8271-4dc5bff4aa98)
+
 
 LAB - 5
 
