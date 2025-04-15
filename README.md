@@ -25,6 +25,9 @@ LAB - 4
 Kruskal's
 ![image](https://github.com/user-attachments/assets/b8f6945c-563e-45c3-8271-4dc5bff4aa98)
 
+Prim's
+![image](https://github.com/user-attachments/assets/e28ec39a-2939-470e-b590-e1cf7173c23d)
+
 
 LAB - 5
 
