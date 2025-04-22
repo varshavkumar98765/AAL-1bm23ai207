@@ -36,3 +36,6 @@ LAB - 5
 
 Insertion sort
 ![image](https://github.com/user-attachments/assets/a27f45f1-e180-4c1e-a57b-5e9cfaf2bc36)
+
+LAB - 6
+![image](https://github.com/user-attachments/assets/d1b1a880-0590-4893-a9f3-66756c11a56b)
