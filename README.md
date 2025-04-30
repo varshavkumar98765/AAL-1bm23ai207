@@ -43,3 +43,7 @@ LAB - 6
 
 LAB - 7
 ![image](https://github.com/user-attachments/assets/f8139596-976b-4af4-8366-f85e155f65c7)
+
+LAB - 8
+![image](https://github.com/user-attachments/assets/fc629587-0288-4f62-989b-584e72098180)
+
