@@ -38,25 +38,30 @@ Insertion sort
 ![image](https://github.com/user-attachments/assets/a27f45f1-e180-4c1e-a57b-5e9cfaf2bc36)
 
 LAB - 6
+
 Topological Sort
 ![image](https://github.com/user-attachments/assets/d1b1a880-0590-4893-a9f3-66756c11a56b)
 
 
 LAB - 7
+
 Heap Sort
 ![image](https://github.com/user-attachments/assets/f8139596-976b-4af4-8366-f85e155f65c7)
 
 LAB - 8
+
 Floyd - Warshall (Dynamic Programming)
 ![image](https://github.com/user-attachments/assets/fc629587-0288-4f62-989b-584e72098180)
 
 LAB - 9 
+
 N Queens Problem
 ![image](https://github.com/user-attachments/assets/02992562-431d-46da-9b49-a3c4f2128cf5)
 
 
 
 LAB - 10
+
 Travelling Salesman Problem
 ![image](https://github.com/user-attachments/assets/81e103a6-ff43-445b-99e0-232502d29861)
 
