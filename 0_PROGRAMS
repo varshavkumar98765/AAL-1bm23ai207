@@ -1,22 +1,22 @@
-1a bubble sort
-1b selection sort
+1a > bubble sort
+1b > selection sort
 
-2 string matching brute force
+ 2 > string matching brute force
 
-3a merge sort
-3b quick sort
+3a > merge sort
+3b > quick sort
 
-4a prims
-4b kruskals
+4a > prims
+4b > kruskals
 
-5 insertion sort - decrease and conquer
+5 > insertion sort - decrease and conquer
 
-6 topological sort
+6 > topological sort
 
-7 heap sort
+7 > heap sort
 
-8 floyd's
+8 > floyd's
 
-9 n queens
+9 > n queens
 
-10 travelling salesman
+10> travelling salesman
