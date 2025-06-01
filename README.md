@@ -1,3 +1,35 @@
+# ACTUAL LIST
+
+EASY
+
+
+1. Bubble sort
+2. Selection sort
+3. String matching
+4. Merge sort
+5. Binomial coefficient
+6. Prims
+7. Kruskals
+8. BFS
+
+
+HARD
+
+
+1. Quick sort
+2. Djistra
+3. 2-3 Tree
+4. Heap sort
+5. Floyd
+6. N Queend
+7. TSP
+8. Knapsack
+
+
+
+
+
+
 LAB - 1
 
 Linear Search
