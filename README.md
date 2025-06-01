@@ -21,7 +21,7 @@ HARD
 3. 2-3 Tree
 4. Heap sort
 5. Floyd
-6. N Queend
+6. N Queens
 7. TSP
 8. Knapsack
 
